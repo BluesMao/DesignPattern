@@ -1,1 +1,7 @@
 D:\CSharp\DesignPattern\BoastPattern\DesignPattern\06Decorator\bin\Debug\06Decorator.exe.config
+D:\Github\DesignPattern\06Decorator\bin\Debug\06Decorator.exe.config
+D:\Github\DesignPattern\06Decorator\bin\Debug\06Decorator.exe
+D:\Github\DesignPattern\06Decorator\bin\Debug\06Decorator.pdb
+D:\Github\DesignPattern\06Decorator\obj\Debug\06Decorator.csprojResolveAssemblyReference.cache
+D:\Github\DesignPattern\06Decorator\obj\Debug\06Decorator.exe
+D:\Github\DesignPattern\06Decorator\obj\Debug\06Decorator.pdb
