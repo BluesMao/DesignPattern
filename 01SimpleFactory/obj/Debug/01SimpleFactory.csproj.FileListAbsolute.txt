@@ -1,0 +1,6 @@
+D:\CSharp\DesignPattern\BoastPattern\DesignPattern\01SimpleFactory\bin\Debug\01SimpleFactory.exe.config
+D:\CSharp\DesignPattern\BoastPattern\DesignPattern\01SimpleFactory\bin\Debug\01SimpleFactory.exe
+D:\CSharp\DesignPattern\BoastPattern\DesignPattern\01SimpleFactory\bin\Debug\01SimpleFactory.pdb
+D:\CSharp\DesignPattern\BoastPattern\DesignPattern\01SimpleFactory\obj\Debug\01SimpleFactory.csprojResolveAssemblyReference.cache
+D:\CSharp\DesignPattern\BoastPattern\DesignPattern\01SimpleFactory\obj\Debug\01SimpleFactory.exe
+D:\CSharp\DesignPattern\BoastPattern\DesignPattern\01SimpleFactory\obj\Debug\01SimpleFactory.pdb
