@@ -1,0 +1,6 @@
+D:\Github\DesignPattern\16State\bin\Debug\16State.exe.config
+D:\Github\DesignPattern\16State\bin\Debug\16State.exe
+D:\Github\DesignPattern\16State\bin\Debug\16State.pdb
+D:\Github\DesignPattern\16State\obj\Debug\16State.csprojResolveAssemblyReference.cache
+D:\Github\DesignPattern\16State\obj\Debug\16State.exe
+D:\Github\DesignPattern\16State\obj\Debug\16State.pdb
