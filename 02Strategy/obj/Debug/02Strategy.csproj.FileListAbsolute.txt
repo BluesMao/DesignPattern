@@ -7,3 +7,12 @@ D:\CSharp\DesignPattern\BoastPattern\DesignPattern\02Strategy\obj\Debug\_02Strat
 D:\CSharp\DesignPattern\BoastPattern\DesignPattern\02Strategy\obj\Debug\02Strategy.csproj.GenerateResource.Cache
 D:\CSharp\DesignPattern\BoastPattern\DesignPattern\02Strategy\obj\Debug\02Strategy.exe
 D:\CSharp\DesignPattern\BoastPattern\DesignPattern\02Strategy\obj\Debug\02Strategy.pdb
+D:\Github\DesignPattern\02Strategy\bin\Debug\02Strategy.exe.config
+D:\Github\DesignPattern\02Strategy\bin\Debug\02Strategy.exe
+D:\Github\DesignPattern\02Strategy\bin\Debug\02Strategy.pdb
+D:\Github\DesignPattern\02Strategy\obj\Debug\02Strategy.csprojResolveAssemblyReference.cache
+D:\Github\DesignPattern\02Strategy\obj\Debug\_02Strategy.Form1.resources
+D:\Github\DesignPattern\02Strategy\obj\Debug\_02Strategy.Properties.Resources.resources
+D:\Github\DesignPattern\02Strategy\obj\Debug\02Strategy.csproj.GenerateResource.Cache
+D:\Github\DesignPattern\02Strategy\obj\Debug\02Strategy.exe
+D:\Github\DesignPattern\02Strategy\obj\Debug\02Strategy.pdb

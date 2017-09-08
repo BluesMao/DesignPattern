@@ -1,0 +1,5 @@
+D:\Github\DesignPattern\13Builder\bin\Debug\13Builder.exe.config
+D:\Github\DesignPattern\13Builder\bin\Debug\13Builder.exe
+D:\Github\DesignPattern\13Builder\bin\Debug\13Builder.pdb
+D:\Github\DesignPattern\13Builder\obj\Debug\13Builder.exe
+D:\Github\DesignPattern\13Builder\obj\Debug\13Builder.pdb

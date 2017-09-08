@@ -1,0 +1,5 @@
+D:\Github\DesignPattern\12Facade\bin\Debug\12Facade.exe.config
+D:\Github\DesignPattern\12Facade\bin\Debug\12Facade.exe
+D:\Github\DesignPattern\12Facade\bin\Debug\12Facade.pdb
+D:\Github\DesignPattern\12Facade\obj\Debug\12Facade.exe
+D:\Github\DesignPattern\12Facade\obj\Debug\12Facade.pdb
