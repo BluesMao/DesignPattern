@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{064745EB-D074-4159-ACD0-8CEC2BAEEF58}</ProjectGuid>
+    <ProjectGuid>{107CEA3D-6877-4A2F-9A26-8499EFA5135F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_26Flyweight</RootNamespace>
-    <AssemblyName>26Flyweight</AssemblyName>
+    <RootNamespace>_27Interpreter</RootNamespace>
+    <AssemblyName>27Interpreter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

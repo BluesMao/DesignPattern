@@ -1,1 +1,6 @@
 D:\Github\DesignPattern\26Flyweight\bin\Debug\26Flyweight.exe.config
+D:\Github\DesignPattern\26Flyweight\bin\Debug\26Flyweight.exe
+D:\Github\DesignPattern\26Flyweight\bin\Debug\26Flyweight.pdb
+D:\Github\DesignPattern\26Flyweight\obj\Debug\26Flyweight.csprojResolveAssemblyReference.cache
+D:\Github\DesignPattern\26Flyweight\obj\Debug\26Flyweight.exe
+D:\Github\DesignPattern\26Flyweight\obj\Debug\26Flyweight.pdb
