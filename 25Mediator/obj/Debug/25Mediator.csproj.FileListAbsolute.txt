@@ -1,0 +1,6 @@
+D:\Github\DesignPattern\25Mediator\bin\Debug\25Mediator.exe.config
+D:\Github\DesignPattern\25Mediator\bin\Debug\25Mediator.exe
+D:\Github\DesignPattern\25Mediator\bin\Debug\25Mediator.pdb
+D:\Github\DesignPattern\25Mediator\obj\Debug\25Mediator.csprojResolveAssemblyReference.cache
+D:\Github\DesignPattern\25Mediator\obj\Debug\25Mediator.exe
+D:\Github\DesignPattern\25Mediator\obj\Debug\25Mediator.pdb

@@ -1,0 +1,1 @@
+D:\Github\DesignPattern\17Adapter\bin\Debug\17Adapter.exe.config

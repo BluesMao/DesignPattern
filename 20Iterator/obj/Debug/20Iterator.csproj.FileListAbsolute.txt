@@ -1,0 +1,6 @@
+D:\Github\DesignPattern\20Iterator\bin\Debug\20Iterator.exe.config
+D:\Github\DesignPattern\20Iterator\bin\Debug\20Iterator.exe
+D:\Github\DesignPattern\20Iterator\bin\Debug\20Iterator.pdb
+D:\Github\DesignPattern\20Iterator\obj\Debug\20Iterator.csprojResolveAssemblyReference.cache
+D:\Github\DesignPattern\20Iterator\obj\Debug\20Iterator.exe
+D:\Github\DesignPattern\20Iterator\obj\Debug\20Iterator.pdb

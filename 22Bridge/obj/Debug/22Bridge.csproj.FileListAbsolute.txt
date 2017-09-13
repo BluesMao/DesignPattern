@@ -1,0 +1,6 @@
+D:\Github\DesignPattern\22Bridge\bin\Debug\22Bridge.exe.config
+D:\Github\DesignPattern\22Bridge\bin\Debug\22Bridge.exe
+D:\Github\DesignPattern\22Bridge\bin\Debug\22Bridge.pdb
+D:\Github\DesignPattern\22Bridge\obj\Debug\22Bridge.csprojResolveAssemblyReference.cache
+D:\Github\DesignPattern\22Bridge\obj\Debug\22Bridge.exe
+D:\Github\DesignPattern\22Bridge\obj\Debug\22Bridge.pdb
