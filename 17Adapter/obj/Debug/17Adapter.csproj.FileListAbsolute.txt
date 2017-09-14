@@ -1,1 +1,5 @@
 D:\Github\DesignPattern\17Adapter\bin\Debug\17Adapter.exe.config
+D:\Github\DesignPattern\17Adapter\bin\Debug\17Adapter.exe
+D:\Github\DesignPattern\17Adapter\bin\Debug\17Adapter.pdb
+D:\Github\DesignPattern\17Adapter\obj\Debug\17Adapter.exe
+D:\Github\DesignPattern\17Adapter\obj\Debug\17Adapter.pdb

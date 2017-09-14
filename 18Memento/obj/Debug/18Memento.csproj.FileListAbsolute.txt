@@ -1,6 +1,5 @@
 D:\Github\DesignPattern\18Memento\bin\Debug\18Memento.exe.config
 D:\Github\DesignPattern\18Memento\bin\Debug\18Memento.exe
 D:\Github\DesignPattern\18Memento\bin\Debug\18Memento.pdb
-D:\Github\DesignPattern\18Memento\obj\Debug\18Memento.csprojResolveAssemblyReference.cache
 D:\Github\DesignPattern\18Memento\obj\Debug\18Memento.exe
 D:\Github\DesignPattern\18Memento\obj\Debug\18Memento.pdb

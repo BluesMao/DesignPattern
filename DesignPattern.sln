@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Decorator", "06Decorator\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Proxy", "07Proxy\07Proxy.csproj", "{E96FF78B-D193-425B-9B43-C0431B2D6B2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Prototype", "08Prototype\08Prototype.csproj", "{DCE72FE9-2298-4885-BEBE-6FD328C71B83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09rototype", "08Prototype\09rototype.csproj", "{DCE72FE9-2298-4885-BEBE-6FD328C71B83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09TemplateMethod", "09TemplateMethod\09TemplateMethod.csproj", "{771FD412-13A1-412B-97C7-34BDA26555DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10TemplateMethod", "09TemplateMethod\10TemplateMethod.csproj", "{771FD412-13A1-412B-97C7-34BDA26555DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Facade", "12Facade\12Facade.csproj", "{C4CE200E-9584-4129-A81B-D5E8C2E9A8A9}"
 EndProject
@@ -48,6 +48,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27Interpreter", "27Interpreter\27Interpreter.csproj", "{107CEA3D-6877-4A2F-9A26-8499EFA5135F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28Visitor", "28Visitor\28Visitor.csproj", "{CD421EFB-630B-45B9-8F0C-BD7BFC5BC24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08FactoryMethod", "08FactoryMethod\08FactoryMethod.csproj", "{4E47EC19-53FF-4236-81BC-F86EDCEF2D94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{CD421EFB-630B-45B9-8F0C-BD7BFC5BC24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD421EFB-630B-45B9-8F0C-BD7BFC5BC24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD421EFB-630B-45B9-8F0C-BD7BFC5BC24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E47EC19-53FF-4236-81BC-F86EDCEF2D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E47EC19-53FF-4236-81BC-F86EDCEF2D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E47EC19-53FF-4236-81BC-F86EDCEF2D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E47EC19-53FF-4236-81BC-F86EDCEF2D94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

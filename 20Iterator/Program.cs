@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace _20Iterator
 {
+    /// <summary>
+    /// 迭代器模式（Iterator）：提供一种方法顺序访问一个聚合对象中各个元素，而又不暴露该对象的内部表示。
+    /// </summary>
     abstract class Iterator
     {
         public abstract object First();

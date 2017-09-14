@@ -1,0 +1,5 @@
+D:\Github\DesignPattern\08Prototype\bin\Debug\09Prototype.exe.config
+D:\Github\DesignPattern\08Prototype\bin\Debug\09Prototype.exe
+D:\Github\DesignPattern\08Prototype\bin\Debug\09Prototype.pdb
+D:\Github\DesignPattern\08Prototype\obj\Debug\09Prototype.exe
+D:\Github\DesignPattern\08Prototype\obj\Debug\09Prototype.pdb

@@ -27,12 +27,14 @@ namespace _28Visitor
         }
     }
 
+    //为该对象结构中ConcreteElement的每一个类声明一个Visit操作
     abstract class Visitor
     {
         public abstract void VisitConcreteElementA(ConcreteElementA concreteElementA);
         public abstract void VisitConcreteElementB(ConcreteElementB concreteElementB);
     }
 
+    //具体访问者，实现每个由Visitor声明的操作。每个操作实现算法的一部分，而该算法片断乃是对应于结构中对象的类。
     class ConcreteVisitor1 : Visitor
     {
         public override void VisitConcreteElementA(ConcreteElementA concreteElementA)
@@ -59,14 +61,16 @@ namespace _28Visitor
         }
     }
 
+    //定义一个Accept操作，它以一个访问者为参数
     abstract class Element
     {
         public abstract void Accept(Visitor visitor);
     }
 
+    //具体元素
     class ConcreteElementA : Element
     {
-        public override void Accept(Visitor visitor)
+        public override void Accept(Visitor visitor)//充分利用双分派技术，实现处理与数据结构的分离
         {
             visitor.VisitConcreteElementA(this);
         }
@@ -86,6 +90,7 @@ namespace _28Visitor
         }
     }
 
+    //能枚举它的元素，可以提供一个高层的接口以允许访问它的元素
     class ObjectStructure
     {
         private IList<Element> elements = new List<Element>();

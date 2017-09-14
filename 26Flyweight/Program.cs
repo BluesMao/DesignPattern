@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace _26Flyweight
 {
     /// <summary>
-    /// 享元模式（Flyweight）：运用共享技术有效地支持大量细粒度的对象。s
+    /// 享元模式（Flyweight）：运用共享技术有效地支持大量细粒度的对象。
     /// </summary>
     class Program
     {
@@ -55,6 +55,7 @@ namespace _26Flyweight
         }
     }
 
+    //享元工厂，用来创建并管理Flyweight对象。
     class FlyweightFactory
     {
         private Hashtable flyweights = new Hashtable();

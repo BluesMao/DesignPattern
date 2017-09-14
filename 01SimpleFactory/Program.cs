@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace _01SimpleFactory
 {
+    /// <summary>
+    /// 
+    /// </summary>
+
     public class Operation
     {
         public double numberA { get; set; }

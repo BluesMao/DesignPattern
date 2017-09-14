@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace _16State
 {
+    /// <summary>
+    /// 状态模式（State）：当一个对象的内在状态在状态改变时允许改变其行为，这个对象看起来像是改变了其类。
+    /// </summary>
+
     abstract class State
     {
         public abstract void Handle(Context context);

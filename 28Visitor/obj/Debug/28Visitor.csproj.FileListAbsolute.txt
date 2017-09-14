@@ -1,6 +1,5 @@
 D:\Github\DesignPattern\28Visitor\bin\Debug\28Visitor.exe.config
 D:\Github\DesignPattern\28Visitor\bin\Debug\28Visitor.exe
 D:\Github\DesignPattern\28Visitor\bin\Debug\28Visitor.pdb
-D:\Github\DesignPattern\28Visitor\obj\Debug\28Visitor.csprojResolveAssemblyReference.cache
 D:\Github\DesignPattern\28Visitor\obj\Debug\28Visitor.exe
 D:\Github\DesignPattern\28Visitor\obj\Debug\28Visitor.pdb

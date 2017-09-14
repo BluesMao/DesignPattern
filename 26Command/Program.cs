@@ -26,6 +26,7 @@ namespace _26Command
         }
     }
 
+    //声明执行操作的接口
     abstract class Command
     {
         protected Receiver receiver;
@@ -50,7 +51,8 @@ namespace _26Command
             receiver.Action();
         }
     }
-
+    
+    //要求该命令执行这个请求
     class Invoker
     {
         private Command command;

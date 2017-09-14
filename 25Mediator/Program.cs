@@ -16,7 +16,7 @@ namespace _25Mediator
         {
             ConcreteMediator m = new ConcreteMediator();
 
-            //主两个具体同事类认识中介对象
+            //使两个具体同事类认识中介对象
             ConcreteColleague1 c1 = new ConcreteColleague1(m);
             ConcreteColleague2 c2 = new ConcreteColleague2(m);
 
@@ -32,11 +32,13 @@ namespace _25Mediator
         }
     }
 
+    //抽象中介者，定义了同事对象到中介者对象的接口
     abstract class Mediator
     {
         public abstract void Send(string message, Colleague colleague);
     }
 
+    //具体中介者对象，实现抽象类的方法，它需要知道所有具体同事类，并从具体同事接收消息，向具体同事对象发出命令
     class ConcreteMediator : Mediator
     {
         //需要知道所有的具体同事对象

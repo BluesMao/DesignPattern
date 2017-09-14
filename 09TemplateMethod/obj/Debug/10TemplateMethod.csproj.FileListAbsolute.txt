@@ -1,0 +1,5 @@
+D:\Github\DesignPattern\09TemplateMethod\bin\Debug\10TemplateMethod.exe.config
+D:\Github\DesignPattern\09TemplateMethod\bin\Debug\10TemplateMethod.exe
+D:\Github\DesignPattern\09TemplateMethod\bin\Debug\10TemplateMethod.pdb
+D:\Github\DesignPattern\09TemplateMethod\obj\Debug\10TemplateMethod.exe
+D:\Github\DesignPattern\09TemplateMethod\obj\Debug\10TemplateMethod.pdb

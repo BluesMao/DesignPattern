@@ -3,3 +3,4 @@ D:\Github\DesignPattern\15AbstractFactory\bin\Debug\15AbstractFactory.exe
 D:\Github\DesignPattern\15AbstractFactory\bin\Debug\15AbstractFactory.pdb
 D:\Github\DesignPattern\15AbstractFactory\obj\Debug\15AbstractFactory.exe
 D:\Github\DesignPattern\15AbstractFactory\obj\Debug\15AbstractFactory.pdb
+D:\Github\DesignPattern\15AbstractFactory\obj\Debug\15AbstractFactory.csprojResolveAssemblyReference.cache

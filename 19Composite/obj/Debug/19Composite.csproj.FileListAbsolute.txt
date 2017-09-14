@@ -1,6 +1,5 @@
 D:\Github\DesignPattern\19Composite\bin\Debug\19Composite.exe.config
 D:\Github\DesignPattern\19Composite\bin\Debug\19Composite.exe
 D:\Github\DesignPattern\19Composite\bin\Debug\19Composite.pdb
-D:\Github\DesignPattern\19Composite\obj\Debug\19Composite.csprojResolveAssemblyReference.cache
 D:\Github\DesignPattern\19Composite\obj\Debug\19Composite.exe
 D:\Github\DesignPattern\19Composite\obj\Debug\19Composite.pdb

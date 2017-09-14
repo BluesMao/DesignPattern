@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace _07Proxy
 {
+    /// <summary>
+    /// 代理模式（Proxy）：为其它对象提供一种代理以控制对这个对象的访问。
+    /// </summary>
+
     abstract class Subject
     {
         public abstract void Request();
